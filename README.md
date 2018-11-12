@@ -46,9 +46,9 @@ If you ever wondered how popular sites like Netflix or Google AdWords UI are mad
 
 ## Critical CSS generator
 
-A CSS management tab provides easy access to all stylesheets on a page with options to download stylesheets, concatenate (merge) them and an option to download multiple (all) stylesheets in a ZIP package.
+A CSS management tab provides easy access to all stylesheets on a page with options to download stylesheets, concatenate (merge) them and an option to download multiple stylesheets in a ZIP package.
 
-The Critical CSS Generator was custom made and is able to provide a perfect result. It was inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse)) and improved on many aspects including the use of PostCSS as CSS parser. As a browser widget it has access to async injected stylesheets of the choice of the editor.
+The Critical CSS generator was custom made and is able to provide a perfect result. It was inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse) and improved on many aspects including the use of PostCSS as CSS parser. As a browser widget it has access to async injected stylesheets of the choice of the editor.
 
 ![Critical CSS Generator](https://github.com/style-tools/browser-widget/blob/master/images/css-settings.png)
 
