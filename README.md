@@ -1,2 +1,46 @@
-# browser-widget
-Browser widget for 1-click access to Style Tools with offline and localhost support.
+# Style.Tools Browser Widget
+
+A fast browser widget for 1-click access to CSS research and optimization tools with offline and localhost support.
+
+Visit https://style.tools/ to install the widget or copy the folowing widget code in the browser bookmarks link field.
+
+```javascript
+!function(r,a,k,l,f,g,b,m){function n(c,b,d){a.open();b&&(r.onmessage=b);d&&a.addEventListener("securitypolicyviolation",d);a.write(c);a.close()}f="https://style.tools/";g="Style.Tools";var c=a.createElement("script");c.src=f+"x.js";c.onerror=function(){function p(d){if(c=d?d.violatedDirective:0){if("script-src"==c||m)return;m=1;b&&l(b)}if(!q){var h=f+"#"+a.location;a.getElementById("e").innerHTML='<h2 style="color:red;">'+g+(c?' blocked by CSP <font color="blue">'+c+"</font>":" failed to load")+
+'.</h2><h3>Redirecting <a href="'+h+'">'+h+"</a>...</h3>";b=k(function(){a.location.href=h},3E3)}}var q;n("<h2>Loading "+g+" via Service Worker...</h2><iframe src="+f+'go height=50></iframe><p id="e"></p>',function(a){q=1;b&&l(b);n("<script>"+a.data+"\x3c/script>")},p);b=k(p,2E3)};a.head.appendChild(c)}(window,document,setTimeout,clearTimeout);
+```
+
+The Style.Tools editor works best when used from the bookmarks bar. Fetch requests will then be local without the need for a CORS proxy.
+
+Style.Tools is like Dev Tools for CSS optimization. It looks similar and the startup time is instant.
+
+Style.Tools provides access to many tools for CSS code research and optimization. 
+
+Style.Tools provides instant access to professional [PostCSS](https://github.com/postcss/) plugins, [clean-css](https://github.com/jakubpawlowicz/clean-css), code structure optimization tools, professional quality Critical CSS (a PostCSS plugin inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse)), Unused CSS remover, [Autoprefixer](https://github.com/postcss/autoprefixer), [CSS Statistics](https://github.com/cssstats/cssstats), [CSS LINT](https://github.com/CSSLint/csslint), a live CSS editor with over 50 themes, above the fold optimization tools, concatenation, individual stylesheet or ZIP-file package download, a measurement grid view with many unit formats (cm, decimal, pt, px etc) and it captures async injected stylesheets.
+
+The editor is part free and part premium. The free version provides CSS beautify, minify and a simple critical CSS extractor. The premium version provides access to more professional optimization tools.
+
+## Above The Fold optimization
+
+The editor provides a split view for critical CSS and above the fold optimization.
+
+![Above The Fold optimization](https://github.com/style-tools/browser-widget/blob/master/images/above-the-fold.png)
+
+## CSS editor with themes
+
+If you ever wondered how popular sites like Netflix or Google AdWords UI are made, Style.Tools enables to get an indepth insight in just a few seconds. The `beautify` feature can structure the CSS in a second enabling to get a good perspective of how the design is made.
+
+![CSS Editor](https://github.com/style-tools/browser-widget/blob/master/images/css-editor.png)
+
+## Critical CSS generator
+
+A CSS management tab provides easy access to all stylesheets on a page with options to download stylesheets, concatenate (merge) them and an option to download multiple (all) stylesheets in a ZIP package.
+
+The Critical CSS Generator was custom made and is able to provide a perfect result. It was inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse)) and improved on many aspects including the use of PostCSS as CSS parser. As a browser widget it has access to async injected stylesheets of the choice of the editor.
+
+![Critical CSS Generator](https://github.com/style-tools/browser-widget/blob/master/images/css-settings.png)
+
+## CSS Statistics
+
+Comprehensive CSS statistics provide a deep analysis of the CSS respresented in numbers and made visual with a color palette.
+
+![Above The Fold optimization](https://github.com/style-tools/browser-widget/blob/master/images/css-stats.png)
