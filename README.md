@@ -44,11 +44,17 @@ If you ever wondered how popular sites like Netflix or Google AdWords UI are mad
 
 ![CSS Editor](https://github.com/style-tools/browser-widget/blob/master/images/css-editor.png)
 
+The `Original View Settings` enable to configure a CORS proxy and to include cookies in the request to allow access to pages after a login.
+
+![CORS and cookie settings](https://github.com/style-tools/browser-widget/blob/master/images/cors-settings.png.png)
+
+![Google Webmaster Tools CSS](https://github.com/style-tools/browser-widget/blob/master/images/editor-signed-in.png.png)
+
 ## Critical CSS generator
 
 A CSS management tab provides easy access to all stylesheets on a page with options to download stylesheets, concatenate (merge) them and an option to download multiple stylesheets in a ZIP package.
 
-The Critical CSS generator was custom made and is able to provide a perfect result. It was inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse) and improved on many aspects including the use of PostCSS as CSS parser. As a browser widget it has access to async injected stylesheets of the choice of the editor.
+The Critical CSS generator was custom made and is able to provide a perfect result. It was inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse) and improved on many aspects including the use of PostCSS as a CSS parser. As a browser widget it has access to async injected stylesheets of the choice of the editor.
 
 ![Critical CSS Generator](https://github.com/style-tools/browser-widget/blob/master/images/css-settings.png)
 
