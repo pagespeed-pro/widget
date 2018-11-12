@@ -44,9 +44,7 @@ If you ever wondered how popular sites like Netflix or Google AdWords UI are mad
 
 ![CSS Editor](https://github.com/style-tools/browser-widget/blob/master/images/css-editor.png)
 
-The `Original View Settings` enable to configure a CORS proxy and to include cookies in the request to allow access to pages after a login.
-
-![CORS and cookie settings](https://github.com/style-tools/browser-widget/blob/master/images/cors-settings.png)
+The `Original View Settings` enables to configure a CORS proxy and to include cookies in the request to allow access to pages after a login.
 
 ![Google Webmaster Tools CSS](https://github.com/style-tools/browser-widget/blob/master/images/editor-signed-in.png)
 
