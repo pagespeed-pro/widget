@@ -15,7 +15,20 @@ Style.Tools is like Dev Tools for CSS optimization. It looks similar and the sta
 
 Style.Tools provides access to many tools for CSS code research and optimization. 
 
-Style.Tools provides instant access to professional [PostCSS](https://github.com/postcss/) plugins, [clean-css](https://github.com/jakubpawlowicz/clean-css), code structure optimization tools, professional quality Critical CSS (a PostCSS plugin inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse)), Unused CSS remover, [Autoprefixer](https://github.com/postcss/autoprefixer), [CSS Statistics](https://github.com/cssstats/cssstats), [CSS LINT](https://github.com/CSSLint/csslint), a live CSS editor with over 50 themes, above the fold optimization tools, concatenation, individual stylesheet or ZIP-file package download, a measurement grid view with many unit formats (cm, decimal, pt, px etc) and it captures async injected stylesheets.
+- [PostCSS](https://github.com/postcss/) plugins
+- [clean-css](https://github.com/jakubpawlowicz/clean-css)
+- Code structure optimization tools
+- Professional quality Critical CSS (a PostCSS plugin inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse))
+- Unused CSS remover
+- [Autoprefixer](https://github.com/postcss/autoprefixer)
+- [CSS Statistics](https://github.com/cssstats/cssstats)
+- [CSS LINT](https://github.com/CSSLint/csslint)
+- A live CSS editor with over 50 themes
+- Above the fold optimization tools
+- Concatenation
+- Download (individual stylesheets and ZIP-package)
+- A measurement grid with many unit formats (cm, decimal, pt, px etc)
+- Capture of async injected stylesheets.
 
 The editor is part free and part premium. The free version provides CSS beautify, minify and a simple critical CSS extractor. The premium version provides access to more professional optimization tools.
 
