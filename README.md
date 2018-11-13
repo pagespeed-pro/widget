@@ -20,8 +20,8 @@ Style.Tools provides access to many tools for CSS code research and optimization
 - Code structure optimization tools
 - Critical CSS generators, two unique solutions:
 	1) a simple browser widget (inspired by [this snippet](https://gist.github.com/PaulKinlan/6284142))
-	2) professional quality Critical CSS based on PostCSS and inspired by Penthouse.js.
-- Unused CSS remover
+	2) professional quality Critical CSS based on PostCSS and inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse).
+- Unused CSS remover (high quality result based on PostCSS)
 - Repair broken CSS (find & fix syntax errors)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 - [CSS Statistics](https://github.com/cssstats/cssstats)
