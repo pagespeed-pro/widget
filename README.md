@@ -24,7 +24,7 @@ Style.Tools provides access to many tools for CSS code research and optimization
 - Unused CSS remover (high quality result based on PostCSS)
 - Repair broken CSS (find & fix syntax errors)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
-- [CSS Statistics](https://github.com/cssstats/cssstats)
+- [CSS Analytics](https://github.com/cssstats/cssstats)
 - [CSS LINT](https://github.com/CSSLint/csslint)
 - A live CSS editor with over 50 themes
 - Above the fold optimization tools
