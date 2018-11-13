@@ -18,7 +18,9 @@ Style.Tools provides access to many tools for CSS code research and optimization
 - [PostCSS](https://github.com/postcss/) plugins
 - [clean-css](https://github.com/jakubpawlowicz/clean-css)
 - Code structure optimization tools
-- Critical CSS (professional quality, based on PostCSS and inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse))
+- Critical CSS, two solutions:
+	1) a simple browser widget (inspired by [this snippet](https://gist.github.com/PaulKinlan/6284142))
+	2) professional quality Critical CSS based on PostCSS and inspired by Penthouse.js.
 - Unused CSS remover
 - Repair broken CSS (find & fix syntax errors)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
