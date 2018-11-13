@@ -20,6 +20,7 @@ Style.Tools provides access to many tools for CSS code research and optimization
 - Code structure optimization tools
 - Professional quality Critical CSS (a PostCSS plugin inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse))
 - Unused CSS remover
+- Repair broken CSS (find & fix syntax errors)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 - [CSS Statistics](https://github.com/cssstats/cssstats)
 - [CSS LINT](https://github.com/CSSLint/csslint)
@@ -44,13 +45,13 @@ If you ever wondered how popular sites like Netflix or Google AdWords UI are mad
 
 ![CSS Editor](https://github.com/style-tools/browser-widget/blob/master/images/css-editor.png)
 
-The `Original View Settings` enables to configure a CORS proxy and to include cookies in the request to allow access to pages after a login.
+The `Original View Settings` enables to configure a CORS proxy and to include cookies in the request to allow access to pages behind a login.
 
 ![Google Webmaster Tools CSS](https://github.com/style-tools/browser-widget/blob/master/images/editor-signed-in.png)
 
 ## Critical CSS generator
 
-A CSS management tab provides easy access to all stylesheets on a page with options to download stylesheets, concatenate (merge) them and an option to download multiple stylesheets in a ZIP package.
+A CSS management tab provides easy access to all stylesheets on a page with options to download stylesheets, concatenate (merge) and an option to download multiple stylesheets in a ZIP package.
 
 The Critical CSS generator was custom made and is able to provide a perfect result. It was inspired by [Penthouse.js](https://github.com/pocketjoso/penthouse) and improved on many aspects including the use of PostCSS as a CSS parser. As a browser widget it has access to async injected stylesheets of the choice of the editor.
 
