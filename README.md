@@ -29,11 +29,11 @@ Style.Tools provides access to many tools for CSS code research and optimization
 - A live CSS editor with over 50 themes
 - Above the fold optimization tools
 - Concatenation
-- Download (individual stylesheets and ZIP-package)
+- Download individual stylesheets and ZIP-package
 - A measurement grid with many unit formats (cm, decimal, pt, px etc)
 - Capture of async injected stylesheets.
 
-The editor is part free and part premium. The free version provides CSS beautify, minify and a simple critical CSS extractor. The premium version provides access to more professional optimization tools.
+The editor is part free and part premium. The free version provides CSS beautify, minify and a simple critical CSS extractor. The premium version provides access to more professional optimization tools. 
 
 ## Above The Fold optimization
 
