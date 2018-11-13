@@ -18,7 +18,7 @@ Style.Tools provides access to many tools for CSS code research and optimization
 - [PostCSS](https://github.com/postcss/) plugins
 - [clean-css](https://github.com/jakubpawlowicz/clean-css)
 - Code structure optimization tools
-- Critical CSS, two solutions:
+- Critical CSS generators, two unique solutions:
 	1) a simple browser widget (inspired by [this snippet](https://gist.github.com/PaulKinlan/6284142))
 	2) professional quality Critical CSS based on PostCSS and inspired by Penthouse.js.
 - Unused CSS remover
