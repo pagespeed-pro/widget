@@ -29,7 +29,7 @@ Style.Tools provides access to many tools for CSS code research and optimization
 - A live CSS editor with over 50 themes
 - Above the fold optimization tools
 - Concatenation
-- Download individual stylesheets and ZIP-package
+- Download individual stylesheets or ZIP-package
 - A measurement grid with many unit formats (cm, decimal, pt, px etc)
 - Capture of async injected stylesheets.
 
