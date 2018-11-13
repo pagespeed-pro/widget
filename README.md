@@ -2,7 +2,7 @@
 
 A fast browser widget for 1-click access to CSS research and optimization tools with offline and localhost support.
 
-Visit https://style.tools/ to install the widget or copy the following widget code in the browser bookmarks or console.
+Visit https://style.tools/ to install the widget or copy the following widget code in the browser bookmarks bar or console.
 
 ```javascript
 !function(r,a,k,l,f,g,b,m){function n(c,b,d){a.open();b&&(r.onmessage=b);d&&a.addEventListener("securitypolicyviolation",d);a.write(c);a.close()}f="https://style.tools/";g="Style.Tools";var c=a.createElement("script");c.src=f+"x.js";c.onerror=function(){function p(d){if(c=d?d.violatedDirective:0){if("script-src"==c||m)return;m=1;b&&l(b)}if(!q){var h=f+"#"+a.location;a.getElementById("e").innerHTML='<h2 style="color:red;">'+g+(c?' blocked by CSP <font color="blue">'+c+"</font>":" failed to load")+
