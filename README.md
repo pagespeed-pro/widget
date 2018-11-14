@@ -1,4 +1,4 @@
-# Style.Tools Browser Widget
+# 📐 Style.Tools Browser Widget
 
 A fast browser widget for 1-click access to CSS research and optimization tools with offline and localhost support.
 
