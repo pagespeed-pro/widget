@@ -2,7 +2,7 @@
 
 A fast browser widget for 1-click access to CSS research and optimization tools with offline and localhost support.
 
-### Documentation is available in the [Wiki](https://github.com/style-tools/browser-widget/wiki)
+### Documentation is available on the [Wiki](https://github.com/style-tools/browser-widget/wiki).
 
 ## Usage 
 
