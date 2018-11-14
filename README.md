@@ -4,6 +4,8 @@ A fast browser widget for 1-click access to CSS research and optimization tools 
 
 ### Documentation is available on the [Wiki](https://github.com/style-tools/browser-widget/wiki).
 
+[CMS plugins](https://github.com/style-tools) available for WordPress and many others. 
+
 ## Usage 
 
 Visit https://style.tools/ to install the widget or copy the following widget code in the browser console. 
