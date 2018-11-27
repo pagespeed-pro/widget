@@ -67,7 +67,7 @@ The `Original View Settings` enables to configure a CORS proxy and to include co
 
 ![Amazon AWS UI](https://github.com/style-tools/browser-widget/blob/master/images/aws-abtf.png)
 
-Style.Tools provides access to the full CSS of the UI, including all async injected `<style>` and `<link>` elements.
+Style.Tools provides access to the full CSS of the UI, including all async injected `<style>` and `<link>` elements. With a few clicks and in less than a few seconds you can get a good insight in how a complex UI is made. Over time, this ability enables to learn a lot about professional CSS design.
 
 ## Critical CSS generator
 
