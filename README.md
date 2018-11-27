@@ -59,9 +59,15 @@ If you ever wondered how popular sites like Netflix or Google AdWords UI are mad
 
 The `Original View Settings` enables to configure a CORS proxy and to include cookies in the request to allow access to pages behind a login.
 
+#### Google Webmaster Tools UI
+
 ![Google Webmaster Tools CSS](https://github.com/style-tools/browser-widget/blob/master/images/editor-signed-in.png)
 
+#### Amazon AWS UI
+
 ![Amazon AWS UI](https://github.com/style-tools/browser-widget/blob/master/images/aws-abtf.png)
+
+Style.Tools provides access to the full CSS of the UI, including all async injected `<style>` and `<link>` elements.
 
 ## Critical CSS generator
 
