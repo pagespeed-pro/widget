@@ -61,6 +61,8 @@ The `Original View Settings` enables to configure a CORS proxy and to include co
 
 ![Google Webmaster Tools CSS](https://github.com/style-tools/browser-widget/blob/master/images/editor-signed-in.png)
 
+![Amazon AWS UI](https://github.com/style-tools/browser-widget/blob/master/images/aws-abtf.png)
+
 ## Critical CSS generator
 
 A CSS management tab provides easy access to all stylesheets on a page with options to download stylesheets, concatenate (merge) and an option to download multiple stylesheets in a ZIP package.
