@@ -26,7 +26,7 @@ A good website to test is https://www.w3schools.com/
 
 ![image](https://user-images.githubusercontent.com/8843669/50855020-ffd1dd80-1386-11e9-9116-1d26258cba8e.png)
 
-Style.Tools provides access to many tools for CSS code research and optimization. 
+Style.Tools provides access to many tools for CSS code research and optimization. The essentials are free, the more advanced tools that require a PostCSS service require a low fee.
 
 - [PostCSS](https://github.com/postcss/) plugins
 - [clean-css](https://github.com/jakubpawlowicz/clean-css)
