@@ -17,7 +17,7 @@ Visit https://style.tools/ to install the widget or copy the following widget co
 
 A good website to test is https://www.w3schools.com/
 
-Style.Tools is like Dev Tools for CSS optimization. It looks similar and the startup time is instant.
+📐 Style.Tools is like Dev Tools for CSS optimization. It looks similar and the startup time is instant.
 
 ##### Bookmark
 ![image](https://user-images.githubusercontent.com/8843669/50855172-6d7e0980-1387-11e9-89dc-6535dd846fff.png)
