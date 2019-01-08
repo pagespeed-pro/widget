@@ -53,13 +53,15 @@ The editor provides a split view for critical CSS and above the fold optimizatio
 
 If you ever wondered how popular sites like Netflix or Google AdWords UI are made, Style.Tools enables to get an indepth insight in just a few seconds. The `beautify` feature can structure the CSS in a second enabling to get a good perspective of how the design is made.
 
-![CSS Editor](https://github.com/style-tools/browser-widget/blob/master/images/css-editor.png)
-
 The `Original View Settings` enables to configure a CORS proxy and to include cookies in the request to allow access to pages behind a login.
 
 #### Google Webmaster Tools UI
 
 ![Google Webmaster Tools CSS](https://github.com/style-tools/browser-widget/blob/master/images/editor-signed-in.png)
+
+#### Netflix
+
+![CSS Editor](https://github.com/style-tools/browser-widget/blob/master/images/css-editor.png)
 
 #### Amazon AWS UI
 
