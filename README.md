@@ -52,7 +52,7 @@ The editor is part free and part premium. The free version provides CSS beautify
 
 The editor provides a split view for critical CSS and above the fold optimization.
 
-![Above The Fold optimization](https://github.com/style-tools/browser-widget/blob/master/images/above-the-fold.png)
+![image](https://user-images.githubusercontent.com/8843669/50855535-5d1a5e80-1388-11e9-8500-991136a9d016.png)
 
 ## CSS editor with themes
 
