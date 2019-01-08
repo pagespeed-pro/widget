@@ -17,7 +17,7 @@ Visit https://style.tools/ to install the widget or copy the following widget co
 
 A good website to test is https://www.w3schools.com/
 
-The Style.Tools editor works best when used from the bookmarks bar or console. Fetch requests will then be local without the need for a [CORS proxy](https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347).
+![image](https://user-images.githubusercontent.com/8843669/50855020-ffd1dd80-1386-11e9-9116-1d26258cba8e.png)
 
 Style.Tools is like Dev Tools for CSS optimization. It looks similar and the startup time is instant.
 
