@@ -66,6 +66,8 @@ The `Original View Settings` enables to configure a CORS proxy and to include co
 
 #### Netflix
 
+The CSS editor supports over 50 themes.
+
 ![CSS Editor](https://github.com/style-tools/browser-widget/blob/master/images/css-editor.png)
 
 #### Amazon AWS UI
