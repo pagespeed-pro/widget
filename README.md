@@ -26,7 +26,7 @@ Visit https://style.tools/ to install the widget or copy the following widget co
 
 # Google Performance Scores
 
-Style.Tools FEO Widget enables to resolve the `remove unused CSS` penalty in Google's performance score on the basis of pure CSS. 
+Style.Tools FEO Widget enables to resolve the `remove unused CSS` penalty in Google's performance score on the basis of pure CSS.
 
 ![Google Performance Scores](https://style.tools/google-measure-scores.png)
 
