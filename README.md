@@ -13,7 +13,7 @@ A free Frontend Optimization (FEO) widget that works offline and for pages behin
 - CSS lint
 - CSS analysis
 
-### Documentation is available on the [https://docs.style.tools/](https://docs.style.tools/).
+### Documentation is available on the [docs.style.tools](https://docs.style.tools/).
 
 # Installation
 
