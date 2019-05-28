@@ -24,7 +24,9 @@ Visit https://style.tools/ to install the widget or copy the following widget co
 '.</h2><h3>Redirecting <a href="'+h+'">'+h+"</a>...</h3>";b=k(function(){a.location.href=h},3E3)}}var q;n("<h2>Loading "+g+" via Service Worker...</h2><iframe src="+f+'go height=50></iframe><p id="e"></p>',function(a){q=1;b&&l(b);n("<script>"+a.data+"\x3c/script>")},p);b=k(p,2E3)};a.head.appendChild(c)}(window,document,setTimeout,clearTimeout);
 ```
 
-# Google Performance Scores
+---
+
+## Google Performance Scores
 
 Style.Tools FEO Widget enables to resolve the `remove unused CSS` penalty in Google's performance score on the basis of pure CSS.
 
