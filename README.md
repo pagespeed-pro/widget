@@ -1,4 +1,4 @@
-# 🔬 Style.Tools FEO Widget
+# Style.Tools FEO Widget
 
 A free Frontend Optimization (FEO) widget that works offline and for pages behind a login.
 
