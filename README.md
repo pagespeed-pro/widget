@@ -16,6 +16,8 @@ A free above-the-fold optimization and Critical-CSS generator widget that works 
 - Compare critical CSS with the original CSS.
 - Customizable pixel measure rulers.
 
+![Above-the-fold optimizer](https://pagespeed.pro/images/critical-css-extract.gif)
+
 ### Advanced CSS optimization tools
 
 - Unused CSS remover to remove critical CSS from stylesheets.
