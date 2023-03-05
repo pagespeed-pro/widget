@@ -1,4 +1,4 @@
-# PageSpeed.pro Above-the-fold optimization and Critical-CSS Widget
+# Above-the-fold optimization and Critical-CSS Widget
 
 A free above-the-fold optimization and Critical-CSS generator widget that works offline and for pages behind a login.
 
