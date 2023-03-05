@@ -1,4 +1,4 @@
-# Above-the-fold optimization and Critical-CSS Widget
+# Critical-CSS and Above-the-fold optimizer Widget
 
 A free above-the-fold optimization and Critical-CSS generator widget that works offline and for pages behind a login.
 
