@@ -1,11 +1,11 @@
 # Critical-CSS and Above-the-fold optimizer Widget
 
-A free above-the-fold optimization and Critical-CSS generator widget that works offline and for pages behind a login.
+An above-the-fold optimization and Critical-CSS generator browser widget that works offline and for pages behind a login.
 
 ### Professional-level critical CSS generator
 
 - Pixel perfect result for any website and design.
-- Custom developed based on PostCSS, one of the best CSS parsers, and better than any open source solution available.
+- Custom developed based on [PostCSS](https://github.com/postcss/postcss), one of the best CSS parsers, and better than any open source solution available.
 - Supports multiple-viewports (desktop + mobile) for responsive critical CSS.
 - Puppeteer like browser control including click, mouse events (hover, move etc), scrolling, custom javascript code execution and much more.
 - Raw non-optimized pure critical CSS output.
@@ -16,7 +16,7 @@ A free above-the-fold optimization and Critical-CSS generator widget that works 
 - Compare critical CSS with the original CSS.
 - Customizable pixel measure rulers.
 
-![Above-the-fold optimizer](https://pagespeed.pro/images/critical-css-extract.gif)
+![Above-the-fold optimizer](./critical-css-extract.gif)
 
 ### Advanced CSS optimization tools
 
@@ -47,6 +47,6 @@ Visit https://pagespeed.pro/critical-css/ to install the widget or copy the foll
 
 PageSpeed.pro's Above-the-fold optimizer Widget enables to resolve the `remove unused CSS` penalty in Google's performance score on the basis of pure CSS.
 
-![Google Performance Scores](https://pagespeed.pro/images/cwv-scores.png)
+![Google Performance Scores](./cwv-scores.png)
 
 For website performance and SEO tests, visit https://pagespeed.pro/tests/
